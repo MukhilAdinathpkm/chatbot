@@ -1,0 +1,4 @@
+streamlit
+streamlit-lottie
+google-generativeai
+requests
